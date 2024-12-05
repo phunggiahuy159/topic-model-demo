@@ -1,0 +1,28 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "3.11.9",
+  "startedAt": "2024-11-19T07:26:30.259601Z",
+  "program": "d:\\code\\topic_modeling\\g_demo.py",
+  "codePath": "g_demo.py",
+  "email": "phunggiahuy.15092005@gmail.com",
+  "root": "D:\\code\\topic_modeling",
+  "host": "huyphung",
+  "username": "phung",
+  "executable": "C:\\Users\\phung\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe",
+  "codePathLocal": "g_demo.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "183608799232",
+      "used": "65074864128"
+    }
+  },
+  "memory": {
+    "total": "8355045376"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
